@@ -1,0 +1,16 @@
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\bin\Debug\net5.0\Lab4.exe
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\bin\Debug\net5.0\Lab4.deps.json
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\bin\Debug\net5.0\Lab4.runtimeconfig.json
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\bin\Debug\net5.0\Lab4.runtimeconfig.dev.json
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\bin\Debug\net5.0\Lab4.dll
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\bin\Debug\net5.0\Lab4.pdb
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.csproj.AssemblyReference.cache
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.AssemblyInfoInputs.cache
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.AssemblyInfo.cs
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.csproj.CoreCompileInputs.cache
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.dll
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\refint\Lab4.dll
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.pdb
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\Lab4.genruntimeconfig.cache
+D:\Facultate\ANUL III\an 3 sem I\Parallel and distributed programming (PDP)\Labs\Hw4\obj\Debug\net5.0\ref\Lab4.dll
